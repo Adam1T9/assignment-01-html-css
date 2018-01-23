@@ -5,6 +5,10 @@ header {
   width:100%;
   background-color:#337DFF;
 }
+.main {
+  margin-left: 50px;
+  margin-right: 50px;
+}
 .sources {
   border: exist;
   border-width: medium;
@@ -12,10 +16,7 @@ header {
   margin-left: auto;
   margin-right: auto;
 }
-section.main {
-  margin-left: auto;
-  margin-right: auto;
-}
+
 img {
   float:left;
 }
